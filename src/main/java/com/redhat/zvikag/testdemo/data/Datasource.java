@@ -152,6 +152,7 @@ public class Datasource {
         phonetics.put(120,"120");
         phonetics.put(121,"121");
         phonetics.put(122,"122");
+        phonetics.put(123,"123");
 //HERE!
     }
 
