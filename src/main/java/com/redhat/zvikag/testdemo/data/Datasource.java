@@ -426,6 +426,7 @@ public class Datasource {
         phonetics.put(394,"394");
         phonetics.put(395,"395");
         phonetics.put(396,"396");
+        phonetics.put(397,"397");
 //HERE!
     }
 
