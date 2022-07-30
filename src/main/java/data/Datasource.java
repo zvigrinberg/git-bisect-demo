@@ -590,6 +590,7 @@ public class Datasource {
         phonetics.put(559,"559");
         phonetics.put(560,"560");
         phonetics.put(561,"561");
+        phonetics.put(562,"562");
 //HERE!
     }
 
