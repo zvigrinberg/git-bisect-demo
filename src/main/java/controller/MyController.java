@@ -1,9 +1,9 @@
-package com.redhat.zvikag.testdemo.controller;
+package controller;
 
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
-import com.redhat.zvikag.testdemo.service.MyService;
+import service.MyService;
 
 @RestController
 @RequiredArgsConstructor

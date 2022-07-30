@@ -1,9 +1,8 @@
-package com.redhat.zvikag.testdemo.service;
+package service;
 
-import com.redhat.zvikag.testdemo.data.Datasource;
+import data.Datasource;
 import lombok.AllArgsConstructor;
 import lombok.Data;
-import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
 @Service
