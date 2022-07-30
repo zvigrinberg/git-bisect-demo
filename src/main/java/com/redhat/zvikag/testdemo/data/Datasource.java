@@ -83,6 +83,7 @@ public class Datasource {
         phonetics.put(51,"51");
         phonetics.put(52,"52");
         phonetics.put(53,"53");
+        phonetics.put(54,"54");
 //HERE!
     }
 
