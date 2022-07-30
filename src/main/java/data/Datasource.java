@@ -806,6 +806,7 @@ public class Datasource {
         phonetics.put(775,"775");
         phonetics.put(776,"776");
         phonetics.put(777,"777");
+        phonetics.put(778,"778");
 //HERE!
     }
 
