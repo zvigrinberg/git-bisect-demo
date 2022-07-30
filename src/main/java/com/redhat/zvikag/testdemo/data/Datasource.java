@@ -137,6 +137,7 @@ public class Datasource {
         phonetics.put(105,"105");
         phonetics.put(106,"106");
         phonetics.put(107,"107");
+        phonetics.put(108,"108");
 //HERE!
     }
 
