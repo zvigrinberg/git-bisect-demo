@@ -292,7 +292,7 @@ java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you 
 [INFO] ------------------------------------------------------------------------
 [ERROR] Failed to execute goal org.apache.maven.plugins:maven-surefire-plugin:2.22.2:test (default-test) on project test-demo: There are test failures.
 ```
-15. Revert the problematic commit using git revert command and :
+15. Revert the problematic commit using git revert command and problematicVersion tag that points to the problematic commit:
 ```shell
 [zgrinber@zgrinber git-bisect-demo]$ git revert problematicVersion 
 ```
