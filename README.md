@@ -82,7 +82,7 @@ Bisecting: 99 revisions left to test after this (roughly 7 steps)
 ```
 
 8.We already narrowed down the range of commits to tests to 99 instead of 793 commits. \
-  We will continue in the same way, by testing each checkout out commit, and tell git bisect if it's a good or bad commit.
+  We will continue in the same way, by testing each checked out commit, and tell git bisect if it's a good or bad commit.
   in this case, we'll get a series of good commits, until we'll find the problematic commit that broke the code
   ```shell
     [zgrinber@zgrinber git-bisect-demo]$ mvn clean test 
